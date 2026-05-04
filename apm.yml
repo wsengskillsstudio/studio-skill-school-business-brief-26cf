@@ -1,0 +1,6 @@
+name: school-business-brief
+display_name: "School Business Brief Generator"
+description: "Generates a structured business brief for school initiatives, programs, or proposals. Includes executive summary, stakeholder impact, resource requirements, implementation plan, and success metrics tailored to educational contexts."
+version: 0.0.1
+skills:
+  - .apm/skills/school-business-brief
